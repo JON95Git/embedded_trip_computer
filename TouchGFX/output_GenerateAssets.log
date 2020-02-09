@@ -1,0 +1,16 @@
+Converting images
+Writing generated/images/include/BitmapDatabase.hpp
+Writing generated/images/src/BitmapDatabase.cpp
+Cleaning generated files from generated/texts and generated/fonts.
+Generating generated/fonts/src/GeneratedFont.cpp
+Generating generated/fonts/include/fonts/GeneratedFont.hpp
+Generating generated/fonts/include/fonts/CachedFont.hpp
+Generating generated/fonts/src/CachedFont.cpp
+Generating generated/fonts/include/fonts/FontCache.hpp
+Generating generated/fonts/src/FontCache.cpp
+Generating generated/fonts/src/ApplicationFontProvider.cpp
+Generating generated/fonts/include/fonts/ApplicationFontProvider.hpp
+Generating generated/texts/include/texts/TextKeysAndLanguages.hpp
+Generating generated/texts/include/texts/TypedTextDatabase.hpp
+Generating generated/texts/src/TypedTextDatabase.cpp
+Generating generated/texts/src/Texts.cpp
